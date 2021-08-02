@@ -1,6 +1,6 @@
 # ExploitEducation Phoenix
 
-*Binary exploit challenge from **[Phoenix](https://exploit.education/phoenix/)***
+*Binary exploit challenges from **[Phoenix](https://exploit.education/phoenix/)***
 ## Payloads
 *\* Still in progress*
 - stack-zero:
